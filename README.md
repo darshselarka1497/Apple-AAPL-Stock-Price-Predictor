@@ -1,1 +1,1 @@
-# Apple-AAPL-Stock-Price-Predictor
+# TSLA-Stock-Price-Predictor
